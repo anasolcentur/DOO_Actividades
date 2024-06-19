@@ -37,42 +37,36 @@ Requisitos iniciales:
 **ACTIVIDAD 1**
 
 
-Diagrama de Clases
-https://drive.google.com/file/d/1Vskm9NU7VE0Rid_M8HOw8ZGV5TQI71Tr/view?usp=drive_link
+[Diagrama de Clases](https://drive.google.com/file/d/1Vskm9NU7VE0Rid_M8HOw8ZGV5TQI71Tr/view?usp=drive_link)
 
 **ACTIVIDAD 2** 
 
-Diagrama de Clases
-https://drive.google.com/file/d/1IETggAAzkWSnlr2Fk8eef0DM3Oeg4Uw_/view?usp=drive_link
+[Diagrama de Clases](https://drive.google.com/file/d/1IETggAAzkWSnlr2Fk8eef0DM3Oeg4Uw_/view?usp=drive_link)
 
 **ACTIVIDAD 3**
 
-Diagrama de Actividades
-https://drive.google.com/file/d/1LcamWC7-XMHvJCIXEN9c5TtSZpwCC-6S/view?usp=drive_link
+[Diagrama de Actividades](https://drive.google.com/file/d/1LcamWC7-XMHvJCIXEN9c5TtSZpwCC-6S/view?usp=drive_link)
 
 Diagrama de Secuencia
 
-Registrar Socio: https://drive.google.com/file/d/1hWDmqd9DMjN4nZwNnJRkSeADYG9Ow1z-/view?usp=drive_link
+[Registrar Socio](https://drive.google.com/file/d/1hWDmqd9DMjN4nZwNnJRkSeADYG9Ow1z-/view?usp=drive_link)
 
-Registrar Libro: https://drive.google.com/file/d/1QXe7CE2HyfDgaEvrcai0ga7OWg5TTXQ6/view?usp=drive_link
+[Registrar Libro](https://drive.google.com/file/d/1QXe7CE2HyfDgaEvrcai0ga7OWg5TTXQ6/view?usp=drive_link)
 
-Gestionar Prestamo: https://drive.google.com/file/d/1CXNeQIER39oGe9g-IbqwJje1PURYbHlj/view?usp=drive_link
+[Gestionar Prestamo](https://drive.google.com/file/d/1CXNeQIER39oGe9g-IbqwJje1PURYbHlj/view?usp=drive_link)
 
-Buscar Libro: https://drive.google.com/file/d/1kAWeooJ0NWbbLNa0cX7h_M78ZbjN1Mvi/view?usp=drive_link
+[Buscar Libro](https://drive.google.com/file/d/1kAWeooJ0NWbbLNa0cX7h_M78ZbjN1Mvi/view?usp=drive_link)
 
-Devolución con multa: https://drive.google.com/file/d/1KMi51ojDtxQV0sLtQrpNcQ-fJUw4x27b/view?usp=drive_link
+[Devolución con multa](https://drive.google.com/file/d/1KMi51ojDtxQV0sLtQrpNcQ-fJUw4x27b/view?usp=drive_link)
 
 **ACTIVIDAD 4**
 
-(CRC) [https://drive.google.com/file/d/1fxdOYqK24EF_THJCs_AAhO0atWmGo9uG/view?usp=drive_link]
+[CRC](https://drive.google.com/file/d/1fxdOYqK24EF_THJCs_AAhO0atWmGo9uG/view?usp=drive_link)
 
-CRC
-https://drive.google.com/file/d/1fxdOYqK24EF_THJCs_AAhO0atWmGo9uG/view?usp=drive_link
+[Diagrama de Casos de Usos](https://drive.google.com/file/d/1Tc9svyHoceSdHutFujYRSA6qGxCW5MZO/view?usp=drive_link)
 
-Diagrama de Casos de Usos
-https://drive.google.com/file/d/1Tc9svyHoceSdHutFujYRSA6qGxCW5MZO/view?usp=drive_link
-
-Escenarios de Casos de Uso
-https://drive.google.com/file/d/1dXOS7-06jp4RtmlLSISZJF-vHlgdnfzs/view?usp=sharing
+[Escenarios de Casos de Uso](https://drive.google.com/file/d/1dXOS7-06jp4RtmlLSISZJF-vHlgdnfzs/view?usp=sharing)
 
 **ACTIVIDAD 5**
+
+[Matriz de CLAE](https://drive.google.com/file/d/11GnQDW8yU_2ByHmyka79R4X67cgYB9lD/view?usp=sharing)

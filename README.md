@@ -70,3 +70,5 @@ Diagrama de Secuencia
 **ACTIVIDAD 5**
 
 [Matriz de CLAE](https://drive.google.com/file/d/11GnQDW8yU_2ByHmyka79R4X67cgYB9lD/view?usp=sharing)
+
+[Diagrama de Clases Actualizado](https://drive.google.com/file/d/1IETggAAzkWSnlr2Fk8eef0DM3Oeg4Uw_/view?usp=sharing)

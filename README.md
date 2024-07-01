@@ -72,3 +72,8 @@ Diagrama de Secuencia
 [Matriz de CLAE](https://drive.google.com/file/d/11GnQDW8yU_2ByHmyka79R4X67cgYB9lD/view?usp=sharing)
 
 [Diagrama de Clases Actualizado](https://drive.google.com/file/d/1IETggAAzkWSnlr2Fk8eef0DM3Oeg4Uw_/view?usp=sharing)
+
+
+# Resolución teórica POO
+
+[Parcial Teorico](https://docs.google.com/document/d/1qsLl6DLyIpV8UYav0sJ0Ia4RxCpmdF5Vq46VIBXBM1A/edit?usp=sharing)
